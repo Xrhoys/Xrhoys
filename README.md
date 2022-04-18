@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-Freelance React and React Native developer that likes to tinker with hardware.
+Fullstack developer.
+Like to do some low level stuff.
 
 ### Contact
 [Email](mailto:yefen@hotmail.fr)
- 
-#### Languages :earth_asia:
-:us: __English__  
-:cn: __Chinese__  
-:fr: __French__  
-:jp: __Japanese__  
+
+:us: :cn: :fr: :jp: OK
